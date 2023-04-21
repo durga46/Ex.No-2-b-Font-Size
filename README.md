@@ -1,6 +1,4 @@
-
-# Ex.No:2 Develop an application that uses Font Size using Android Studio.
-
+## <p align="center"> Ex.No:2 Develop an application that uses Font Size using Android Studio. </p>
 
 ## AIM:
 To develop an application that uses Font Size using android studio.
@@ -125,6 +123,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## Output:
 
+![Screenshot 2023-04-21 111320](https://user-images.githubusercontent.com/75235704/233550794-2da21af3-89a2-4b01-9146-64ce22ae036b.png)
 
 ## Result:
 Thus, the program for android application, Font Size was executed successfully using Android Studio.
